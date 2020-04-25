@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/healthy-food/static/css/main.3ddbdafb.chunk.css",
+    "main.js": "/healthy-food/static/js/main.cdccbc15.chunk.js",
+    "main.js.map": "/healthy-food/static/js/main.cdccbc15.chunk.js.map",
+    "runtime-main.js": "/healthy-food/static/js/runtime-main.10e236bb.js",
+    "runtime-main.js.map": "/healthy-food/static/js/runtime-main.10e236bb.js.map",
+    "static/js/2.55f9f4ec.chunk.js": "/healthy-food/static/js/2.55f9f4ec.chunk.js",
+    "static/js/2.55f9f4ec.chunk.js.map": "/healthy-food/static/js/2.55f9f4ec.chunk.js.map",
+    "index.html": "/healthy-food/index.html",
+    "precache-manifest.40a746332e5096224ed40b8691c95457.js": "/healthy-food/precache-manifest.40a746332e5096224ed40b8691c95457.js",
+    "service-worker.js": "/healthy-food/service-worker.js",
+    "static/css/main.3ddbdafb.chunk.css.map": "/healthy-food/static/css/main.3ddbdafb.chunk.css.map",
+    "static/js/2.55f9f4ec.chunk.js.LICENSE.txt": "/healthy-food/static/js/2.55f9f4ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10e236bb.js",
+    "static/js/2.55f9f4ec.chunk.js",
+    "static/css/main.3ddbdafb.chunk.css",
+    "static/js/main.cdccbc15.chunk.js"
+  ]
+}
