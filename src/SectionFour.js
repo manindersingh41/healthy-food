@@ -20,7 +20,7 @@ class SectionFour extends React.Component{
 
       <div class='row'>
         <div class='col span-1-of-2 steps-box'>
-            <img src='/X-HF logo.png' alt='Healthyfoods app on Iphone X' class='app-screen'/>
+            <img src='./X-HF logo.png' alt='Healthyfoods app on Iphone X' class='app-screen'/>
         </div>
 
 
