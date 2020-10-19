@@ -21,7 +21,7 @@ class SectionOne extends React.Component{
               <meta name='viewport' content='width=device-width, intial-scale=1.0'/>
               <nav>
                  <div class='row'>
-                 <img src='/White-HF logo.png' alt='Healthyfoods logo' class='logo' />
+                 <img src='./White-HF logo.png' alt='Healthyfoods logo' class='logo' />
                  <ul class='main-nav'>
                   <li><a href=''>Food delivery</a></li>
                   <li><a href=''>How it works</a></li>
