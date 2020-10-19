@@ -39,7 +39,7 @@ class SectionFive extends React.Component{
 
 
               <div class='col span-1-of-4 box'>
-                <img src='/san-francisco.jpg' alt='san-francisco'/>
+                <img src='./san-francisco.jpg' alt='san-francisco'/>
                 <h3>SAN FRANSCISCO</h3>
                 <div class='City-Feature'>
                    <IosPerson class='icon-small' color='#e67e22' fontSize='20px' />
@@ -56,7 +56,7 @@ class SectionFive extends React.Component{
               </div>
 
               <div class='col span-1-of-4 box'>
-                <img src='/berlin.jpg' alt='Lisbon'/>
+                <img src='./berlin.jpg' alt='Lisbon'/>
                 <h3>BERLIN</h3>
                 <div class='City-Feature'>
                    <IosPerson class='icon-small' color='#e67e22' fontSize='20px' />
@@ -74,7 +74,7 @@ class SectionFive extends React.Component{
 
 
               <div class='col span-1-of-4 box'>
-                <img src='/london.jpg' alt='london'/>
+                <img src='./london.jpg' alt='london'/>
                 <h3>LONDON</h3>
                 <div class='City-Feature'>
                    <IosPerson class='icon-small' color='#e67e22' fontSize='20px' />
