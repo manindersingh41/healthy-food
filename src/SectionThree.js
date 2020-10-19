@@ -15,44 +15,44 @@ class SectionThree extends React.Component{
         <ul class='meals-showcase'>
             <li>
               <figure class='meal-photo'>
-                <img src='/1.jpg' />
+                <img src='./1.jpg' />
               </figure>
             </li>
             <li>
               <figure class='meal-photo'>
-                <img src='/2.jpg' />
+                <img src='./2.jpg' />
               </figure>
             </li>
             <li>
               <figure class='meal-photo'>
-                <img src='/3.jpg' />
+                <img src='./3.jpg' />
               </figure>
             </li>
             <li>
               <figure class='meal-photo'>
-                <img src='/4.jpg' />
+                <img src='./4.jpg' />
               </figure>
             </li>
         </ul>
         <ul class='meals-showcase'>
             <li>
               <figure class='meal-photo'>
-                <img src='/5.jpg' />
+                <img src='./5.jpg' />
               </figure>
             </li>
             <li>
               <figure class='meal-photo'>
-                <img src='/6.jpg' />
+                <img src='./6.jpg' />
               </figure>
             </li>
             <li>
               <figure class='meal-photo'>
-                <img src='/7.jpg' />
+                <img src='./7.jpg' />
               </figure>
             </li>
             <li>
               <figure class='meal-photo'>
-                <img src='/8.jpg' />
+                <img src='./8.jpg' />
               </figure>
             </li>
         </ul>
